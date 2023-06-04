@@ -1,0 +1,7 @@
+name: KitCleanerPlugin
+version: '1.0-SNAPSHOT'
+main: eu.ovmc.kitcleanerplugin.KitCleanerPlugin
+api-version: 1.19
+commands:
+  kitclean:
+    description: removes all kits from all players.
